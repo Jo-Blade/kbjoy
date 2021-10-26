@@ -61,7 +61,7 @@ all the previous command (except for ping)
 
 example output:
 
-$
+```
 sent: connect
 receive 9 accept:
 connection ID: 3
@@ -81,7 +81,7 @@ timeout removed
 recv: list-start
 recv: /dev/input/event0
 recv: list-end
-$
+```
 
 the keyword "skipped" means the message was send before kbjoy-connect was running
 
