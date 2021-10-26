@@ -83,7 +83,7 @@ recv: /dev/input/event0
 recv: list-end
 ```
 
-the keyword "skipped" means the message was send before kbjoy-connect was running
+the keyword "skipped" means the message was sent before kbjoy-connect was running
 
 # config file
 you can edit the mapping of your virtual gamepad using a mapping file.
