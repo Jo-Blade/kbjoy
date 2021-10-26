@@ -1,6 +1,5 @@
 # Préambule :
 
-	Bonjour et merci d'avoir téléchargé cet utilitaire conçu et programmé entièrement par Téo Pisenti
 Ce programme est désormais dans un état stable avec la majorité des fonctionnalités prévues qui ont été implémentées. Toutefois, il se peut que certains bogues subsistes, je vous en serai gré de me tenir au courant de telles découvertes.
 
 	ce programme porte le nom de "kbjoy", pour "kb to joy" = "keyboard to joystick". Il vous permettra en effet de remapper (rediriger) les entrées indépendantes effectuées sur plusieurs claviers connectés à un même pc sur des manettes virtuelles.
