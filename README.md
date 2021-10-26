@@ -32,6 +32,8 @@ When connected, the keyboard has two different modes:
 1. gamepad mode: all the input event are send to the virtual gamepad, the keyboard is disabled
 2. keyboard mode: the gamepad exist but is in idle. the keyboard act normally
 
+you can switch between the two mode using SUPER+ESCAPE
+
 ## example
 
 If you want to give a try to the app, you can run the example script: config/keyboards.sh
