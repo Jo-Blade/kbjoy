@@ -1,0 +1,18 @@
+# Les noms de touches sont donnés selon la disposition Qwerty
+# ainsi le A et le Q sont échangés par exemple
+
+		[btns-section]
+# ______________________________________________
+BTN_DPAD_UP : KEY_UP
+BTN_DPAD_DOWN : KEY_DOWN
+
+BTN_A : KEY_1
+BTN_B : KEY_2
+BTN_Y: KEY_3
+BTN_X: KEY_4
+BTN_TR :KEY_5
+
+BTN_START : \28
+--------:~
+# _______________________________________________
+		[end-section]

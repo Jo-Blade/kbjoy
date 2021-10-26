@@ -1,0 +1,12 @@
+[Unit]
+Description=remap keyboards keys to a virtual gamepad
+After=network.target
+
+[Service]
+User=kbjoy
+Type=forking
+Restart=always
+ExecStart=/usr/sbin/kbjoy-daemon
+
+[Install]
+WantedBy=multi-user.target

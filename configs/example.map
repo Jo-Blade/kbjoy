@@ -1,0 +1,32 @@
+# This file is the default config mapping for the kbjoy keyboard Remapper
+# Les noms de touches sont donnés selon la disposition Qwerty
+# ainsi le A et le Q sont échangés par exemple
+
+		[btns-section]
+
+BTN_DPAD_UP : KEY_UP
+BTN_DPAD_DOWN : KEY_DOWN
+
+BTN_A : KEY_P
+BTN_B : KEY_M
+BTN_START : \28
+
+		[end-section]
+	[joyL-section]
+UP:KEY_W
+DOWN:KEY_S
+LEFT:KEY_A
+RIGHT:KEY_D
+
+	RUN_KEY:KEY_Q
+	RUN_INPUT:HOLD
+
+FORCE:290
+RUN_FORCE:500
+[end-section]
+
+
+#[joyR-section]
+#LEFT:KEY_A
+#choix force joystick
+#FORCE:156
